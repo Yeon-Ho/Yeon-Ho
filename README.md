@@ -1,5 +1,5 @@
 ## This is Yeonho's GitHub. 👋
-<ol>소개글</ol>
+-소개글
 KH 정보교육원 웹 개발자 양성과정을 이수중입니다.
 
 
