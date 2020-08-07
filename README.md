@@ -1,6 +1,6 @@
 ## This is Yeonho's GitHub. 👋
 
-### Hello, I am a student who learns coding.
+Hello, I am a student who learns coding
 
 
 
