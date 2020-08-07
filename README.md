@@ -1,6 +1,5 @@
-### Hi there 👋
+### This is Yeonho's GitHub. 👋
 
-<h2>ddd</h2>
 
 <!--
 **Yeon-Ho/Yeon-Ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
