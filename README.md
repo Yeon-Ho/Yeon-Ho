@@ -1,10 +1,18 @@
 ## This is Yeonho's GitHub. 👋
 
-Hello, I am a student who learns coding
+안녕하세요, 웹 개발자가 되기 위해 열심히 달려가고 있는 장연호 입니다. 
+KH정보교육원 웹개발자 양성과정을 이수중입니다.
 
-
-
-
+- ### 공부한 언어 와 툴
+  - Java
+  - Oracle DB
+  - HTML5, CSS3, JS
+  - JSP
+  - MyBatis
+  - Maven
+  - Spring Framework
+  - Trello
+  
 
 
 
