@@ -1,7 +1,6 @@
 ## This is Yeonho's GitHub. 👋
 
-- ## sdijfisdjfiow
-
+### Hello, I am a student who learns coding.
 
 
 
